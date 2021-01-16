@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1a388eb-3ce5-4bfc-8734-80909b39eb08" name="Default Changelist" comment="remove display flex in App.scss, change font size to 13px in Header.scss, install slick-carousel" />
+    <list default="true" id="872f970d-d9b6-48f0-9323-084474c7c5bb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cocostraw_web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cocostraw_web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/slider/MultipleSlider.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/slider/MultipleSlider.jsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1mnNhJ6KHzK1RnFiFNru91bMRow" />
+  <component name="ProjectId" id="1n8FK8NsteLYxUncH2w2jT7N34r" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -20,66 +30,24 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="nodejs_interpreter_path" value="node" />
-    <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-    <property name="vue.rearranger.settings.migration" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src" />
-    </key>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c1a388eb-3ce5-4bfc-8734-80909b39eb08" name="Default Changelist" comment="" />
-      <created>1610125512928</created>
+      <changelist id="872f970d-d9b6-48f0-9323-084474c7c5bb" name="Default Changelist" comment="" />
+      <created>1610763743168</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1610125512928</updated>
-      <workItem from="1610125515083" duration="310000" />
-      <workItem from="1610125865592" duration="99000" />
-      <workItem from="1610179045466" duration="1002000" />
-      <workItem from="1610181804190" duration="436000" />
-      <workItem from="1610261231769" duration="25000" />
-      <workItem from="1610261261163" duration="48000" />
-      <workItem from="1610543856840" duration="7195000" />
-      <workItem from="1610594665502" duration="4067000" />
-      <workItem from="1610627406317" duration="2238000" />
-      <workItem from="1610645135039" duration="1093000" />
-      <workItem from="1610677149190" duration="2530000" />
+      <updated>1610763743168</updated>
+      <workItem from="1610763745894" duration="297000" />
     </task>
-    <task id="LOCAL-00001" summary="remove display flex in App.scss, change font size to 13px in Header.scss, install slick-carousel">
-      <created>1610679578841</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1610679578841</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="remove display flex in App.scss, change font size to 13px in Header.scss, install slick-carousel" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove display flex in App.scss, change font size to 13px in Header.scss, install slick-carousel" />
+    <option name="version" value="2" />
   </component>
 </project>

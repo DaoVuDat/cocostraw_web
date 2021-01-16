@@ -9,6 +9,7 @@ import NavBar from "./components/navbar/NavBar";
 // Pages
 import HomePage from "./scenes/homepage/HomePage";
 import Product from "./scenes/product/Product";
+import ScrollToTop from "./components/scrollToTop/ScrollToTop";
 
 
 const App = () => {
@@ -17,6 +18,7 @@ const App = () => {
     return (
         <div>
             <BrowserRouter>
+                <ScrollToTop/>
                 <Header/>
                 <Switch>
                     <Route path="/" exact component={HomePage}/>
